@@ -1,9 +1,4 @@
 央视频道,#genre#
-CCTV1,https://stream1.freetv.fun/7edb2635d06bf546a0a55c569b903f3f75349fc4f0e275de06b64c4b4f00ea27.m3u8
-CCTV1,http://a21709.tv.netsite.cc/proxy/1387573383/1387573383.m3u8
-CCTV1,https://stream1.freetv.fun/c3f1650630ea3f8c13d8b929cf962a054f09de686c9cb1d6dcfb2b94e70bb274.m3u8
-CCTV1,https://stream1.freetv.fun/9832662fe7e694c38a14393525475d5c97ad6e1fac50720ea5cf0e1648ee372a.m3u8
-
 CCTV1,http://120.7.85.139:8088/hls/1/index.m3u8
 CCTV2,http://120.7.85.139:8088/hls/2/index.m3u8
 CCTV3,http://120.7.85.139:8088/hls/3/index.m3u8
