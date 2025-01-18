@@ -1066,8 +1066,12 @@ CCTV17,http://123.101.157.82:808/hls/17/index.m3u8
 翡翠台,https://stream1.freetv.fun/e0810f349d52a45fd1faf771402e6a04596a8e2398155f25e1141dc4d7746e4d.ctv
 翡翠台,https://stream1.freetv.fun/1bea804b4f385fd7e1435630bbabe3a6f5d8736d70d5320cdcbd5a23c7c77f08.ctv
 翡翠台,http://119.125.134.151:9901/tsfile/live/faacts/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-TVB星河,https://stream1.freetv.fun/0e5d0f6215a7303c0a62f865683588d86903cd25eb774f3957889cd63f6b4a6b.ctv
-TVB星河,https://stream1.freetv.fun/2e73c35c9d4b2d73ceda43bec8220855e171d39c620940ffd3022b7270ba8c71.ctv
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+TVB星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
+TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB星河,https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8 
 TVB经典,https://stream1.freetv.fun/5e0d739979966cb5ecf9dcc179cb55964449ac0f62117c03599c99ad98be26bb.ctv
 TVB武侠,https://stream1.freetv.fun/ea5a274515f65aa5be0c9dbc42a3c03bdb727db547296213c0ad94371683b9d2.ctv
 TVB明珠,https://stream1.freetv.fun/738c0beb98c6f513ccf0f4ec46584fe778ed7bb198de3a23a7325d3897ee981a.m3u8
