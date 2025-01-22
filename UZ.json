@@ -64,18 +64,18 @@
             "type": 101
         },
         {
-            "name": "南瓜|多线",
-            "api": "https://gitee.com/devilstart/yao/raw/master/DEMO.jar",
-            "instance": "nangua",
+            "name": "低端|多线",
+            "api": "https://gitee.com/devilstart/yao/raw/master/drpy2.min.js",
+            "instance": "ddys_js",
             "remark": "",
             "version": "2",
             "type": 100
         },
         {
             "name": "全网|视频",
-            "api": "https://gitee.com/devilstart/jar/raw/master/spider1.jar",
-            "instance": "quanwang",
-            "webSite": "https://www.91qkw.com",
+            "api": "https://gitee.com/devilstart/yao/raw/master/drpy2.min.js",
+            "instance": "闪电影院_js",
+            "webSite": "",
             "remark": "",
             "version": "2",
             "type": 100
