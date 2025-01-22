@@ -360,59 +360,6 @@
             "remark": "网盘 | 1.6.41 及以上版本可用",
             "version": "1",
             "type": 101
-        },
-        {
-            "name": "麻豆社",
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/madou.js",
-            "instance": "madou20240626",
-            "webSite": "https://madou.club",
-            "remark": "需海外IP",
-            "version": "2",
-            "type": 100
-        },
-        {
-            "name": "MISSAV",
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/missav.js",
-            "instance": "missav20240627",
-            "webSite": "https://missav.ai",
-            "remark": "",
-            "version": "2",
-            "type": 100
-        },
-        {
-            "name": "Jable",
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/jable.js",
-            "instance": "jable20240831",
-            "webSite": "https://jable.tv",
-            "remark": "",
-            "version": "3",
-            "type": 100
-        },
-        {
-            "name": "玩偶姐姐",
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/hkdoll.js",
-            "instance": "hkdoll20240705",
-            "webSite": "https://hongkongdollvideo.com",
-            "remark": "",
-            "version": "2",
-            "type": 100
-        },
-        {
-            "name": "Netflav",
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/netflav.js",
-            "instance": "netflav20240905",
-            "webSite": "https://www.netflav.com",
-            "remark": "",
-            "version": "2",
-            "type": 100
-        },
-        {
-            "name": "91jav",
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/91jav.js",
-            "webSite": "https://041.bndmpsjx.com",
-            "remark": "",
-            "version": "3",
-            "type": 101
         }
     ]
 }
