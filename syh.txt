@@ -1076,6 +1076,19 @@ BBC NEWS ,http://195.181.175.69:5080/67/mpegts
 澳视澳门,http://61.244.22.5/ch1/ch1.live/index.m3u8
 
 北京综合,#genre#
+北京新闻,http://114.252.236.205:8000/rtp/239.3.1.159:8000
+北京新闻,http://omnix.cn:4000/udp/225.1.8.129:8002
+北京新闻,http://114.253.57.101:10000/rtp/239.3.1.159:8000?
+北京新闻,http://omnix.cn:4000/udp/225.1.8.83:8000
+北京生活,http://114.252.236.205:8000/rtp/239.3.1.117:8000
+北京生活,http://omnix.cn:4000/udp/225.1.8.127:8002
+北京生活,http://114.253.57.101:10000/rtp/239.3.1.117:8000?
+北京生活,https://stream1.freetv.fun/2ccff5570151d10d87cd087632b6179a5ceebbfed1dba291f5f51df88e62cbc2.ctv
+北京文艺,http://114.252.236.205:8000/rtp/239.3.1.242:8000
+北京文艺,http://114.253.57.101:10000/rtp/239.3.1.242:8000?
+北京影视,http://114.252.236.205:8000/rtp/239.3.1.158:8000
+北京影视,http://114.253.57.101:10000/rtp/239.3.1.158:8000?
+
 北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1738229921&sign=9a177f839067293e4033656add6a1b18
 北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1738229957&sign=de6b4bb4cf24bf003fc41608e8788336
 北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1738230123&sign=7c8158a2ad13a8e4f7aaddea47178c79
