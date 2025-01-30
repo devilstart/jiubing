@@ -1079,7 +1079,8 @@ BBC NEWS ,http://195.181.175.69:5080/67/mpegts
 北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1738229921&sign=9a177f839067293e4033656add6a1b18
 北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1738229957&sign=de6b4bb4cf24bf003fc41608e8788336
 北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1738230123&sign=7c8158a2ad13a8e4f7aaddea47178c79
-北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1738226645&sign=2928ae3e124bfe910fa8697a77518fde
+北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1738236041&sign=a61c80c68eb6a646beaac2728818212b
+北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1738235993&sign=ecd5344330ada69dd700142d6920fe3b
 北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1738229988&sign=33766366249e2383f69e6446a22f2f03
 北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1738230046&sign=674be2c9817b947257fb3a9a4f728292
 北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1738230063&sign=92c561dde21239f100a5a44bb95b5226
