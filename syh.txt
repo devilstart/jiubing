@@ -1081,6 +1081,8 @@ BBC NEWS ,http://195.181.175.69:5080/67/mpegts
 北京文艺,http://joyznm.i234.me:20000/udp/239.3.1.226:8000###des:720P###HLS
 北京文艺,http://joyznm.i234.me:20000/udp/239.3.1.242:8000###des:1080P###HLS
 北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1738310262&sign=909de09d2ffc81536fb4320160126bbd
+北京文艺,http://115.171.216.85:8888/udp/225.1.8.122:8002
+北京文艺,http://115.171.216.85:8888/udp/225.1.8.22:8002
 北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1738310390&sign=7fcc9c5afd36c979878667d76502f32f
 北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1738310408&sign=068d751a9f86bf05fa3ae7d8c1029cec
 北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1738310424&sign=1382c4491bc701c76e055c81cfb3389c
