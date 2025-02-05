@@ -1,5 +1,4 @@
 央视频道,#genre#
-林动,rtp://239.3.1.184:8001/stream.m3u8?bitrate=1000
 CCTV1,http://221.193.168.31:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://144.52.162.152:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://221.13.235.85:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
