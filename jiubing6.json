@@ -2,57 +2,37 @@
   "spider": "https://raw.giteeusercontent.com/devilstart/jar/raw/master/spider2.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "logo": "https://img.fy6b.com/2024/07/15/161bacbec4079.png",
-  "warningText": "声明：资源来自网络，无盈利，所有内容仅供学习测试使用，请勿用于违法及商业用途，请勿付费购买，测试之后请自行删除]",
+  "warningText": "声明：资源来自网络，无盈利，所有内容仅供个人学习测试使用，请勿用于违法及商业用途，请勿付费购买，测试之后请自行删除",
   "lives": [
     {
-      "name": "Kimentanm",
+      "name": "救兵",
       "type": 0,
-      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "https://raw.giteeusercontent.com/devilstart/jiubing/raw/master/CNTV.txt",
       "playerType": 2
     },
     {
-      "name": "范明明（需开启V6网络）",
+      "name": "国威",
       "type": 0,
-      "url": "./lib/3d75a78a0fc7ede372c03598d6d10367.m3u",
+      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
       "playerType": 2
     },
     {
-      "name": "虎牙一起看",
+      "name": "潇雨",
       "type": 0,
-      "url": "./lib/ECB0A5FBED1D8C4D4E049E95DB9F756F.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
+      "url": " https://ds65.tv1288.xyz/",
+      "playerType": 2
     },
     {
-      "name": "斗鱼一起看",
+      "name": "风云",
       "type": 0,
-      "url": "./lib/3FB56B2C49DF92B3252352FBE5CD00F1.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
-      "name": "B站直播",
-      "type": 0,
-      "url": "./lib/370FAE41BD301F89BA1FCD6FDB8D5BD6.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
-      "name": "YY轮播",
-      "type": 0,
-      "url": "./lib/2C9AF1F98DBC1523826C0CD4DA8D8947.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
+      "url": " http://iptv.4666888.xyz/FYTV.txt",
+      "playerType": 2
     }
   ],
   "sites": [
     {
       "key": "豆瓣",
-      "name": "中秋快乐🥮免费分享",
+      "name": "🌈豆瓣┃榜单",
       "type": 3,
       "api": "csp_Douban",
       "jar": "./lib/bh2601251.jar",
@@ -61,7 +41,7 @@
     },
     {
       "key": "天天",
-      "name": "热播┃零二",
+      "name": "📽️热播┃弹幕",
       "type": 3,
       "quickSearch": 1,
       "searchable": 1,
@@ -71,7 +51,7 @@
     },
     {
       "key": "天天",
-      "name": "⛅天天",
+      "name": "⛅天天┃多线",
       "type": 3,
       "api": "csp_TTian",
       "searchable": 1,
@@ -81,7 +61,7 @@
     },
     {
       "key": "橘汁",
-      "name": "🅰橘汁",
+      "name": "🍊桔子┃多线",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -101,7 +81,7 @@
     },
     {
       "key": "华谊",
-      "name": "🅰华谊",
+      "name": "🌌华谊┃多线",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -121,7 +101,7 @@
     },
     {
       "key": "苹果",
-      "name": "🅰小苹果",
+      "name": "🍎苹果┃多线",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -141,7 +121,7 @@
     },
     {
       "key": "半日",
-      "name": "🅰半日",
+      "name": "💌半日┃多线",
       "type": 3,
       "api": "csp_App99",
       "ext": {
@@ -156,7 +136,7 @@
     },
     {
       "key": "天堂",
-      "name": "🅰电影天堂",
+      "name": "💯电天┃多线",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -176,7 +156,7 @@
     },
     {
       "key": "剧圈",
-      "name": "🅰剧圈圈",
+      "name": "👻剧圈┃多线",
       "type": 3,
       "api": "csp_App99",
       "ext": {
@@ -191,7 +171,7 @@
     },
     {
       "key": "双星",
-      "name": "🅰双子星动漫",
+      "name": "💥双星┃动漫",
       "type": 3,
       "api": "csp_App99",
       "ext": {
