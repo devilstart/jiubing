@@ -188,7 +188,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://max.moyu666666.top/app3q.php?site=sq"
-    },
+    }，
     {
       "key": "马猴影视",
       "name": "🐒马猴┃三线",
@@ -332,7 +332,7 @@
     },
     {
       "key": "Yidong4K",
-      "name": "📶┃移动┃网播",
+      "name": "📶移动┃网播",
       "type": 3,
       "api": "csp_Yidong4K",
       "searchable": 1,
