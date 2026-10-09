@@ -61,7 +61,7 @@
     {
       "key": "长泽",
       "name": "😗长泽┃高五",
-      "type": 3,
+      "type": 3，
       "api": "csp_App88",
       "ext": "https://max.moyu666666.top/app88.php?site=legacy_a"
     },
@@ -77,7 +77,7 @@
         "php": "https://max.moyu666666.top/niulai.php",
         "site": "yunxiu"
       }
-    },
+    }，
     {
       "key": "素笺",
       "name": "📜素笺┃高双",
@@ -188,7 +188,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://max.moyu666666.top/app3q.php?site=sq"
-    }，
+    },
     {
       "key": "马猴影视",
       "name": "🐒马猴┃三线",
