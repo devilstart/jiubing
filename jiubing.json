@@ -1,5 +1,5 @@
 {
-  "spider": "https://cdn.jsdelivr.net/gh/devilstart/jar@main/my.jar",
+  "spider": "https://raw.giteeusercontent.com/devilstart/jar/raw/master/my.jar",
   "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
@@ -15,8 +15,8 @@
       "filterable": 1,
       "ext": {
         "home": {
-          "douban": "https://gh-proxy.org/raw.githubusercontent.com/devilstart/lib/refs/heads/main/douban.json",
-          "tmdb": "https://gh-proxy.org/raw.githubusercontent.com/devilstart/lib/refs/heads/main/tmdb.json"
+          "douban": "https://raw.giteeusercontent.com/devilstart/yao/raw/master/douban.json",
+          "tmdb": "https://raw.giteeusercontent.com/devilstart/yao/raw/master/tmdb.json"
         }
       }
     },
@@ -355,7 +355,7 @@
           "https://www.wogg.live",
           "http://woggpan.xxooo.cf"
         ],
-        "filter": "https://gh-proxy.org/raw.githubusercontent.com/devilstart/lib/refs/heads/main/wogg.json"
+        "filter": "https://raw.giteeusercontent.com/devilstart/yao/raw/master/wogg.json"
       }
     },
     {
@@ -536,7 +536,7 @@
       "searchable": 1,
       "filterable": 1,
       "ext": {
-        "filter": "https://gh-proxy.org/raw.githubusercontent.com/devilstart/lib/refs/heads/main/360.json",
+        "filter": "https://raw.giteeusercontent.com/devilstart/yao/raw/master/360.json",
         "fishjx": [
           "https://jx.xmflv.com/?url="
         ]
@@ -668,40 +668,40 @@
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "古装片",
-        "悬疑片",
-        "犯罪片",
-        "灾难片",
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "国产动漫",
-        "欧美动漫",
-        "日韩动漫",
-        "现代都市",
-        "脑洞悬疑",
-        "年代穿越",
-        "古装仙侠",
-        "女频恋爱",
-        "成长逆袭",
-        "反转爽剧"
-      ]
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "古装片",
+                "悬疑片",
+                "犯罪片",
+                "灾难片",
+                "国产剧",
+                "香港剧",
+                "韩国剧",
+                "欧美剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "欧美动漫",
+                "日韩动漫",
+                "现代都市",
+                "脑洞悬疑",
+                "年代穿越",
+                "古装仙侠",
+                "女频恋爱",
+                "成长逆袭",
+                "反转爽剧"
+            ]
     },
     {
       "key": "XingHui",
@@ -831,7 +831,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://gh-proxy.org/raw.githubusercontent.com/devilstart/lib/refs/heads/main/89370c8ddf36b5e1beb4d71adb921bda.txt"
+        "json": "https://raw.giteeusercontent.com/devilstart/yao/raw/master/89370c8ddf36b5e1beb4d71adb921bda.txt"
       }
     },
     {
@@ -846,22 +846,6 @@
       }
     },
     {
-      "key": "BiliHeji",
-      "name": "🎉笔璃┃综合",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "json": "https://gh-proxy.org/raw.githubusercontent.com/devilstart/lib/refs/heads/main/0075389dca9afadd4614e9713765ff17.txt"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
       "name": "🎉笔璃┃歌曲",
       "key": "BiliGequ",
       "type": 3,
@@ -870,7 +854,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://gh-proxy.org/raw.githubusercontent.com/devilstart/lib/refs/heads/main/6496356286589c68f52c2f99c0c674c7.txt"
+        "json": "https://raw.giteeusercontent.com/devilstart/yao/raw/master/6496356286589c68f52c2f99c0c674c7.txt"
       },
       "style": {
         "type": "rect",
